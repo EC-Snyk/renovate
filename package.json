@@ -128,8 +128,8 @@
     "node": "^14.15.0 || >=16.13.0"
   },
   "dependencies": {
-    "@aws-sdk/client-ec2": "3.47.0",
-    "@aws-sdk/client-ecr": "3.47.0",
+    "@aws-sdk/client-ec2": "3.529.0",
+    "@aws-sdk/client-ecr": "3.529.0",
     "@breejs/later": "4.1.0",
     "@cheap-glitch/mi-cron": "1.0.1",
     "@iarna/toml": "2.2.5",
